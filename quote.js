@@ -1,4 +1,4 @@
-const quotes = [
+const QUOTES = [
   {
     author: "Ricky Bobby",
     quote:
@@ -12,11 +12,6 @@ const quotes = [
     author: "Ricky Bobby",
     quote:
       "Here's the deal I'm the best there is. Plain and simple. I wake up in the morning and I piss excellence.",
-  },
-  {
-    author: "Ricky Bobby",
-    quote:
-      "I hope that both of you have sons... Handsome, beautiful, articulate sons, who are talented and star athletes and they have their legs taken away. I mean I pray you know that pain and that hurt.",
   },
   { author: "Ricky Bobby", quote: "If you ain't first, you're last." },
   { author: "Ricky Bobby", quote: "I'm just a big hairy American winning machine, you know?" },
@@ -52,11 +47,6 @@ const quotes = [
   },
   { author: "The Rock", quote: "It doesnt matter what your name is!" },
   {
-    author: "Riley Freeman",
-    quote:
-      "Look, fuck you, fuck the plane you flew in on, fuck them shoes, fuck those socks with the belt on it, fuck your gay-ass fairy faggot accent, fuck them cheap-ass cigars, fuck your yuck-mouth teeth, fuck your hairpiece, fuck your chocolate, fuck Guy Ritchie, fuck Prince William, fuck the Queen. This is America. My president is black and my Lambo is blue, nigga. Now, get the fuck out my hotel room and if I see you in the street, I'm slapping the shit out of you.",
-  },
-  {
     author: "Pablo Picasso",
     quote: "Every child is an artist. The problem is how to remain an artist once he grows up.",
   },
@@ -87,7 +77,14 @@ const quotes = [
   { author: "Frank Sinatra", quote: "The best revenge is massive success." },
 ];
 
-const { author, quote } = quotes[Math.floor(Math.random() * quotes.length)];
+const COLORS = ["#101117", "#212537", "#1B1B1B", "#02075d", "#330066", "#262b1e"];
+
+//Background:
+const randomBgColor = COLORS[Math.floor(Math.random() * COLORS.length)];
+console.log(randomBgColor);
+document.body.style.backgroundColor = randomBgColor;
+
+const { author, quote } = QUOTES[Math.floor(Math.random() * QUOTES.length)];
 
 //Quote:
 const quoteElement = document.createElement("p");

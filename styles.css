@@ -5,7 +5,6 @@
 
 body {
   font-family: "PinkRocket", sans-serif;
-  background: black;
 }
 
 #root {
@@ -13,7 +12,7 @@ body {
   align-items: center;
   justify-content: center;
   flex-direction: column;
-  color: white;
+  color: #fffff0;
   width: 80%;
   height: 80%;
   padding: 10%;
@@ -32,6 +31,6 @@ body {
   width: 100%;
   justify-content: center;
   text-align: center;
-  font-size: 50;
+  font-size: 55;
   font-style: italic;
 }
