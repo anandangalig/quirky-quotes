@@ -1,4 +1,4 @@
-# Quircky Quotes
+# Quirky Quotes
 
 A Chrome extension that brings weird, funky, and off-beat quotes with every new tab you open.
 
