@@ -218,7 +218,7 @@ const QUOTES = [
   },
   {
     author: "Italian Proverb",
-    quote: "If you can’t live longer, live deeper.",
+    quote: "If you can't live longer, live deeper.",
   },
   {
     author: "Russian Proverb",
@@ -267,7 +267,7 @@ const QUOTES = [
   },
   {
     author: "Anonymous",
-    quote: "It’s okay if you don’t like me. Not everyone has good taste.",
+    quote: "It's okay if you don't like me. Not everyone has good taste.",
   },
   {
     author: "Anonymous",
