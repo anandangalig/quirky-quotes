@@ -266,11 +266,9 @@ const COLORS = [
 
 //Background:
 const randomBgColor = COLORS[Math.floor(Math.random() * COLORS.length)];
-console.log(randomBgColor);
 document.body.style.backgroundColor = randomBgColor;
-console.log(randomBgColor);
-const { author, quote } = QUOTES[Math.floor(Math.random() * QUOTES.length)];
 
+const { author, quote } = QUOTES[Math.floor(Math.random() * QUOTES.length)];
 //Quote:
 const quoteElement = document.createElement("p");
 const quoteBody = document.createTextNode(quote);
