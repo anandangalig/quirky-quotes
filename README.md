@@ -10,4 +10,6 @@ A Chrome extension that brings weird, funky, and off-beat quotes with every new 
 
 Until it is accepted to the Chrome Extension store, users can download this project and [install it on their Chrome browser through the `LOAD UNPACKED` option.](https://developer.chrome.com/extensions/getstarted#manifest)
 
-Created by [anandangalig](https://github.com/anandangalig) and [corneezius](https://github.com/corneezius)
+Other contributors:
+[corneezius](https://github.com/corneezius)
+[omarvivar](https://github.com/Omar)
