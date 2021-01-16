@@ -5,7 +5,6 @@ const QUOTES = [
       "Here's the deal I'm the best there is. Plain and simple. I wake up in the morning and I piss excellence.",
   },
   { author: "Ricky Bobby", quote: "If you ain't first, you're last." },
-  { author: "Ricky Bobby", quote: "I'm just a big hairy American winning machine, you know?" },
   {
     author: "Mike Tyson",
     quote:
@@ -48,19 +47,6 @@ const QUOTES = [
   },
   {
     author: "Hunter S. Thompson",
-    quote: "Too weird to live, too rare to die!",
-  },
-  {
-    author: "Hunter S. Thompson",
-    quote: "Some may never live, but the crazy never die.",
-  },
-  {
-    author: "Hunter S. Thompson",
-    quote:
-      "Life has become immeasurably better since I have been forced to stop taking it seriously.",
-  },
-  {
-    author: "Hunter S. Thompson",
     quote:
       "Life has become immeasurably better since I have been forced to stop taking it seriously.",
   },
@@ -74,7 +60,7 @@ const QUOTES = [
   },
   {
     author: "Michael Scott",
-    quote: "I'm not superstitious, but I am a little stitious.",
+    quote: "I'm not superstitious, but I am a little-stitious.",
   },
   {
     author: "Michael Scott",
@@ -83,15 +69,7 @@ const QUOTES = [
   },
   {
     author: "Dwight Schrute",
-    quote: "Who is Justice Beaver?",
-  },
-  {
-    author: "Dwight Schrute",
     quote: "I am ready to face any challenge that might be foolish enough to face me.",
-  },
-  {
-    author: "Dwight Schrute",
-    quote: "I am faster than 80% of all snakes.",
   },
   {
     author: "Dwight Schrute",
@@ -142,11 +120,6 @@ const QUOTES = [
   {
     author: "Yogi Berra",
     quote: "Always go to other people's funerals, otherwise they won't come to yours.",
-  },
-  {
-    author: "Yogi Berra",
-    quote:
-      "I tell the kids, somebody's gotta win, somebody's gotta lose. Just don't fight about it. Just try to get better.",
   },
   {
     author: "Wilt Chamberlain",
@@ -226,6 +199,79 @@ const QUOTES = [
   {
     author: "Price Cobb",
     quote: "Some days you're the bug. Some days you're the windshield.",
+  },
+  {
+    author: "African Proverb",
+    quote: "If you want to go fast, go alone. If you want to go far, go together.",
+  },
+  {
+    author: "Japanese Proverb",
+    quote: "Fall seven times, stand up eight.",
+  },
+  {
+    author: "Swedish Proverb",
+    quote: "Shared joy is a double joy; shared sorrow is half a sorrow.",
+  },
+  {
+    author: "Yiddish Proverb",
+    quote: "Words should be weighed, not counted.",
+  },
+  {
+    author: "Italian Proverb",
+    quote: "If you can’t live longer, live deeper.",
+  },
+  {
+    author: "Russian Proverb",
+    quote: "There is no shame in not knowing; the shame lies in not finding out.",
+  },
+  {
+    author: "Thai Proverb",
+    quote: "In a battle between elephants, the ants get squashed.",
+  },
+  {
+    author: "French Proverb",
+    quote: "Good advice is often annoying, bad advice never is.",
+  },
+  {
+    author: "New Zealander Proverb",
+    quote: "Turn your face to the sun and the shadows will fall behind you.",
+  },
+  {
+    author: "Chinese Proverb",
+    quote:
+      "Give a man a fish, and you feed him for a day. Teach a man to fish, and you feed him for a lifetime.",
+  },
+  {
+    author: "Slovenian Proverb",
+    quote: "Speak the truth, but leave immediately after.",
+  },
+  {
+    author: "Anonymous",
+    quote: "A bird in hand is worth two in the bush.",
+  },
+  {
+    author: "Anonymous",
+    quote: "A ship in the harbor is safe, but that is not what a ship is for.",
+  },
+  {
+    author: "Anonymous",
+    quote: "Barking dogs seldom bite.",
+  },
+  {
+    author: "Anonymous",
+    quote: "A thing begun is half done.",
+  },
+  {
+    author: "Anonymous",
+    quote: "Beauty is only skin deep.",
+  },
+  {
+    author: "Anonymous",
+    quote: "It’s okay if you don’t like me. Not everyone has good taste.",
+  },
+  {
+    author: "Anonymous",
+    quote: "Silence is golden. Duct tape is silver.",
   },
 ];
 
