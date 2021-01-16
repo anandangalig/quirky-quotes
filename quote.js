@@ -279,22 +279,17 @@ const COLORS = [
   "#101117",
   "#212537",
   "#1B1B1B",
-  "#02075d",
   "#262b1e",
   "#222233",
-  "#144840",
   "#0a2145",
-  "#29166c",
   "#224039",
   "#141437",
-  "#21538e",
   "#3a4c5a",
   "#000000",
   "#262b2f",
   "#00022e",
   "#000133",
   "#062e03",
-  "#420303",
   "#220a0a",
   "#280137",
   "#1d0200",
@@ -313,7 +308,7 @@ const COLORS = [
 //Background:
 const randomBgColor = COLORS[Math.floor(Math.random() * COLORS.length)];
 document.body.style.backgroundColor = randomBgColor;
-
+console.log(randomBgColor);
 const { author, quote } = QUOTES[Math.floor(Math.random() * QUOTES.length)];
 //Quote:
 const quoteElement = document.createElement("p");
