@@ -12,4 +12,3 @@ Until it is accepted to the Chrome Extension store, users can download this proj
 
 Other contributors:
 [corneezius](https://github.com/corneezius)
-[omarvivar](https://github.com/Omar)
