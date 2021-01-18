@@ -7,8 +7,8 @@
     "newtab": "quote.html"
   },
   "icons": {
-    "16": "assets/quote_96.png",
-    "48": "assets/quote_96.png",
-    "128": "assets/quote_96.png"
+    "16": "assets/quote_16.png",
+    "48": "assets/quote_48.png",
+    "128": "assets/quote_128.png"
   }
 }
