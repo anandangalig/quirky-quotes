@@ -1,6 +1,6 @@
 {
   "name": "Quirky Quotes Extension",
-  "version": "1.0",
+  "version": "1.0.0",
   "description": "Quirky quotes with each new tab!",
   "manifest_version": 2,
   "chrome_url_overrides": {
@@ -8,7 +8,6 @@
   },
   "icons": {
     "16": "assets/quote_96.png",
-    "32": "assets/quote_96.png",
     "48": "assets/quote_96.png",
     "128": "assets/quote_96.png"
   }
